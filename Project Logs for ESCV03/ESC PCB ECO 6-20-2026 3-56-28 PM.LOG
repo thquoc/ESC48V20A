@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=-1-1
+Removed Pin From Net: NetName=SHA Pin=TP8-1
+Removed Pin From Net: NetName=SHB Pin=TP9-1
+Removed Pin From Net: NetName=SHC Pin=W-1
+Added Component: Designator=TP1(PAD)
+Add component (AddParameter): Name = "Value"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VM Pin=TP1-1
+Added Member To Class: ClassName=ESC Member=Component J1 2 way net tie junction
+Added Member To Class: ClassName=ESC Member=Component J4 2 way net tie junction
+Added Member To Class: ClassName=ESC Member=Component TP1 TP
+Add Class Member: Failed to add class member : Component TP2 TP

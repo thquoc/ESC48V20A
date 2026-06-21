@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VM Pin=F1-2
+Removed Member From Class: ClassName=ESC Member=F1
+Added Pin To Net: NetName=VM Pin=C20-2
+Added Pin To Net: NetName=VM Pin=C21-2
+Added Pin To Net: NetName=VM Pin=D1-2
+Added Pin To Net: NetName=VM Pin=L2-1
+Added Pin To Net: NetName=VM Pin=TP1-1

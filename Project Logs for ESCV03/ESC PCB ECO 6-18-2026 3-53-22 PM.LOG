@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=BSTA Pin=C44-1
+Removed Pin From Net: NetName=SHA Pin=C44-2
+Removed Pin From Net: NetName=BSTB Pin=C45-1
+Removed Pin From Net: NetName=SHB Pin=C45-2
+Change Component Footprint: Designator=C44 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C45 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C46 Old Footprint=C0603 New Footprint=C0402
+Change Component Designator: OldDesignator=SHB NewDesignator=TP8
+Added Pin To Net: NetName=SHA Pin=C44-1
+Added Pin To Net: NetName=BSTA Pin=C44-2
+Added Pin To Net: NetName=SHB Pin=C45-1
+Added Pin To Net: NetName=BSTB Pin=C45-2
+Add Class Member: Failed to add class member : Component TP7 TP
+Added Member To Class: ClassName=ESC Member=Component TP8 TP

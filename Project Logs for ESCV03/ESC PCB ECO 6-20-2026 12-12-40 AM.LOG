@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=SA_N Pin=R36-1
+Removed Pin From Net: NetName=NetC50_1 Pin=R36-2
+Removed Pin From Net: NetName=SB_N Pin=R37-1
+Removed Pin From Net: NetName=NetC51_1 Pin=R37-2
+Removed Pin From Net: NetName=SA_P Pin=R40-1
+Removed Pin From Net: NetName=GND Pin=R40-2
+Removed Pin From Net: NetName=SB_P Pin=R41-1
+Removed Pin From Net: NetName=GND Pin=R41-2
+Removed Member From Class: ClassName=ESC Member=R36
+Removed Member From Class: ClassName=ESC Member=R37
+Removed Member From Class: ClassName=ESC Member=R40
+Removed Member From Class: ClassName=ESC Member=R41
+Added Component: Designator=J1(2way_LP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.edatools.cz/addons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNote"; Value = "LP=12mil, MP=40mil, HP=120mil"; VariantName = "[No Variations]"
+Added Component: Designator=J2(2way_LP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.edatools.cz/addons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNote"; Value = "LP=12mil, MP=40mil, HP=120mil"; VariantName = "[No Variations]"
+Added Component: Designator=J3(2way_LP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.edatools.cz/addons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNote"; Value = "LP=12mil, MP=40mil, HP=120mil"; VariantName = "[No Variations]"
+Added Component: Designator=J4(2way_LP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Source"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.edatools.cz/addons"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintNote"; Value = "LP=12mil, MP=40mil, HP=120mil"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SA_N Pin=J1-1
+Added Pin To Net: NetName=NetC50_1 Pin=J1-2
+Added Pin To Net: NetName=SB_N Pin=J2-1
+Added Pin To Net: NetName=NetC51_1 Pin=J2-2
+Added Pin To Net: NetName=SA_P Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=SB_P Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Member To Class: ClassName=ESC Member=Component J1 2 way net tie junction
+Added Member To Class: ClassName=ESC Member=Component J2 2 way net tie junction
+Added Member To Class: ClassName=ESC Member=Component J3 2 way net tie junction
+Added Member To Class: ClassName=ESC Member=Component J4 2 way net tie junction
+Add Class Member: Failed to add class member : Component TP1 TP
+Add Class Member: Failed to add class member : Component TP2 TP

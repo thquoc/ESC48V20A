@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=R20-1
+Removed Pin From Net: NetName=GND Pin=USB1-17
+Removed Pin From Net: NetName=GND Pin=USB1-18
+Removed Pin From Net: NetName=GND Pin=USB1-19
+Removed Pin From Net: NetName=GND Pin=USB1-20
+Change Component Footprint: Designator=USB1 Old Footprint=TYPE-C-SMD_TYPE-C-16P-LTH9.3-143 New Footprint=USB-C-SMD_U263-241N-4BQC14
+Change Component Comment : Designator=USB1 Old Comment=CONN RCPT Type-C 16POS SMD New Comment=CONN RCPT Type-C 24POS SMD
+Added Pin To Net: NetName=USB_P Pin=D4-2
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=GND Pin=USB1-0
+Added Pin To Net: NetName=GND Pin=USB1-0
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_1 Pin=USB1-B5
+Added Net: Name=NetR20_1
+Added Member To Class: ClassName=ESC Member=Component USB1 CONN RCPT Type-C 24POS SMD

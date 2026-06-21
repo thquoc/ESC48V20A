@@ -1,0 +1,8 @@
+Added Component: Designator=R44(R0402)
+Added Component: Designator=R45(R0402)
+Added Pin To Net: NetName=JTMS/SWDIO Pin=R44-1
+Added Pin To Net: NetName=3V3 Pin=R44-2
+Added Pin To Net: NetName=GND Pin=R45-1
+Added Pin To Net: NetName=JTCK/SWCLK Pin=R45-2
+Added Member To Class: ClassName=ESC Member=Component R44 10kO
+Added Member To Class: ClassName=ESC Member=Component R45 10kO

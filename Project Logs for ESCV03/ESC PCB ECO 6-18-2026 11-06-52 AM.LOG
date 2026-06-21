@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=TP6 Old Footprint=Test_point_DNM New Footprint=PAD
+Change Component Footprint: Designator=TP7 Old Footprint=Test_point_DNM New Footprint=PAD
+Change Component Footprint: Designator=TP8 Old Footprint=Test_point_DNM New Footprint=PAD
+Change Component Designator: OldDesignator=+ NewDesignator=TP1
+Change Component Designator: OldDesignator=- NewDesignator=TP2

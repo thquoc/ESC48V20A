@@ -1,0 +1,7 @@
+Change Net Name : Old Net Name=SNA New Net Name=SA_N
+Change Net Name : Old Net Name=SNB New Net Name=SB_N
+Change Net Name : Old Net Name=SPA New Net Name=SA_P
+Change Net Name : Old Net Name=SPB New Net Name=SB_P
+Added Differential Pair: Name=SA
+Added Differential Pair: Name=SB
+Added Class: Name=DIFF

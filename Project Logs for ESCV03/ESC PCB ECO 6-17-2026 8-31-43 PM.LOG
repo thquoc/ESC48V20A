@@ -1,0 +1,4 @@
+Added Component: Designator=D1(SMC_L6.9-W5.9-LS7.9-BI)
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=PWR_ISO Pin=D1-2
+Added Member To Class: ClassName=ESC Member=Component D1 TVS DIODE 64VWM 77.7VC DO-214AB

@@ -1,0 +1,6 @@
+Added Component: Designator=H1(HDR-TH_4P-HX-PH254-01-04-Z-L11.5)
+Added Pin To Net: NetName=3V3 Pin=H1-1
+Added Pin To Net: NetName=JTMS/SWDIO Pin=H1-2
+Added Pin To Net: NetName=JTCK/SWCLK Pin=H1-3
+Added Pin To Net: NetName=GND Pin=H1-4
+Added Member To Class: ClassName=ESC Member=Component H1 4PIN

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=H1-5
+Removed Pin From Net: NetName=GND Pin=H1-6
+Removed Pin From Net: NetName=VM Pin=TP2-1
+Removed Pin From Net: NetName=GND Pin=TP9-1
+Change Component Footprint: Designator=H1 Old Footprint=CONN-SMD_4P-P1.25_JS_GH125-S04CCA-00 New Footprint=HDR-TH_4P-HX-PH254-01-04-Z-L11.5
+Change Component Comment : Designator=H1 Old Comment=CONN HEADER SMD 4POS 1.25mm New Comment=4PIN

@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=USB1-1
+Removed Pin From Net: NetName=GND Pin=USB1-2
+Removed Pin From Net: NetName=GND Pin=USB1-3
+Removed Pin From Net: NetName=GND Pin=USB1-4
+Removed Pin From Net: NetName=GND Pin=USB1-A1B12
+Removed Pin From Net: NetName=VBUS Pin=USB1-A4B9
+Removed Pin From Net: NetName=GND Pin=USB1-B1A12
+Removed Pin From Net: NetName=VBUS Pin=USB1-B4A9
+Removed Pin From Net: NetName=USB_B Pin=USB1-B6
+Change Component Footprint: Designator=USB1 Old Footprint=USB-C-SMD_G-SWITCH_GT-USB-7010ASV New Footprint=TYPE-C-SMD_TYPE-C-16P-LTH9.3-143
+Change Component Comment : Designator=USB1 Old Comment=TYPE C 2.0 New Comment=CONN RCPT Type-C 16POS SMD
+Change Component Designator: OldDesignator=+ NewDesignator=TP1
+Change Component Designator: OldDesignator=- NewDesignator=TP2
+Added Pin To Net: NetName=GND Pin=USB1-17
+Added Pin To Net: NetName=GND Pin=USB1-18
+Added Pin To Net: NetName=GND Pin=USB1-19
+Added Pin To Net: NetName=GND Pin=USB1-20
+Added Pin To Net: NetName=GND Pin=USB1-A1
+Added Pin To Net: NetName=VBUS Pin=USB1-A4
+Added Pin To Net: NetName=VBUS Pin=USB1-A9
+Added Pin To Net: NetName=GND Pin=USB1-A12
+Added Pin To Net: NetName=GND Pin=USB1-B1
+Added Pin To Net: NetName=VBUS Pin=USB1-B4
+Added Pin To Net: NetName=USB_P Pin=USB1-B6
+Added Pin To Net: NetName=VBUS Pin=USB1-B9
+Added Pin To Net: NetName=GND Pin=USB1-B12

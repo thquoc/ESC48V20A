@@ -1,0 +1,23 @@
+Added Component: Designator=LED1(LED0603-RD_RED)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED0603-RD_RED)
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R42(R0402)
+Added Component: Designator=R43(R0402)
+Added Pin To Net: NetName=GND Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED2-1
+Added Pin To Net: NetName=3V3 Pin=R42-1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R42-2
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R43-2
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=VBUS Pin=R43-1
+Added Pin To Net: NetName=VBUS Pin=USB1-A4B9
+Added Net: Name=VBUS
+Added Member To Class: ClassName=ESC Member=Component LED1 XL-1608SURC-06
+Added Member To Class: ClassName=ESC Member=Component LED2 XL-1608SURC-06
+Added Member To Class: ClassName=ESC Member=Component R42 1kO
+Added Member To Class: ClassName=ESC Member=Component R43 1kO
+Added Rule: Name=Schematic Supply Nets_4

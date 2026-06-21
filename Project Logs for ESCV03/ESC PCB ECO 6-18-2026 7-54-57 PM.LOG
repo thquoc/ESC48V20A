@@ -1,0 +1,18 @@
+Added Component: Designator=USB1(USB-C-SMD_U263-241N-4BQC14)
+Added Pin To Net: NetName=GND Pin=USB1-0
+Added Pin To Net: NetName=GND Pin=USB1-0
+Added Pin To Net: NetName=GND Pin=USB1-A1
+Added Pin To Net: NetName=VBUS Pin=USB1-A4
+Added Pin To Net: NetName=NetR18_2 Pin=USB1-A5
+Added Pin To Net: NetName=USB_P Pin=USB1-A6
+Added Pin To Net: NetName=USB_N Pin=USB1-A7
+Added Pin To Net: NetName=VBUS Pin=USB1-A9
+Added Pin To Net: NetName=GND Pin=USB1-A12
+Added Pin To Net: NetName=GND Pin=USB1-B1
+Added Pin To Net: NetName=VBUS Pin=USB1-B4
+Added Pin To Net: NetName=NetR20_1 Pin=USB1-B5
+Added Pin To Net: NetName=USB_P Pin=USB1-B6
+Added Pin To Net: NetName=USB_N Pin=USB1-B7
+Added Pin To Net: NetName=VBUS Pin=USB1-B9
+Added Pin To Net: NetName=GND Pin=USB1-B12
+Added Member To Class: ClassName=ESC Member=Component USB1 CONN RCPT Type-C 24POS SMD
