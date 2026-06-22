@@ -10,3 +10,7 @@
 |Gate resistance| Rgate | 16Ω |
 |Amplifier reference| Vref | 3.3V|
 |Amplifier gain| Gain | 10v/V |
+
+
+------------------------------------------------------------------------------------
+Note: Bạn thay đổi điện trở của ompap để có giá trị gain 20v/v.
