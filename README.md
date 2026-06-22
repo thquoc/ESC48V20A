@@ -9,7 +9,7 @@
 |Switching frequency| fsw | 20kHz |
 |Gate resistance| Rgate | 16Ω |
 |Amplifier reference| Vref | 3.3V|
-|Amplifier gain| Gain | 10v/V |
+|Amplifier gain| Gain | 20v/V |
 
 
 ------------------------------------------------------------------------------------
